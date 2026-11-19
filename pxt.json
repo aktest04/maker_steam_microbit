@@ -1,0 +1,12 @@
+{
+    "name": "maker-steam-microbit",
+    "version": "0.0.1",
+    "description": "Thư viện MakeCode micro:bit cho MOTOR DRIVER L9110, LCD1602, DHT11 và DS18B20",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "main.ts"
+    ],
+    "public": true
+}
